@@ -32,7 +32,14 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     to: channelID,
                     message: 'Hi, I am Nexxy!'
                 });
-            break;
+                break;
+            // !about
+            case 'about':
+                bot.sendMessage({
+                    to: channelID,
+                    message: 'Nexxy is a bot. Say hello to Nexxy at discord.gg/V2j5tev'
+                });
+                break;
             // Just add any case commands if you want to..
          }
      }
