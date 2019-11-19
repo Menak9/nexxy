@@ -20,7 +20,7 @@ Liberator, Lion Blade, Living Monolith, Low Templar, Mage of the Third Eye, Mamm
 Proctor, Ritualist, Rose Warden, Runeguard, Natural Alchemist, Noble Scion, Pain Taster, Pit Fighter, 
 Planes Walker, Purity Legion Enforcer, Sanguine Angel, Stargazer, Souldrinker, Spirit Channeler Emissary,
 Storm Kindler, Student of Perfection, Twilight Talon, Sacred Sentinel, Scar Seeker, Sanctified Prophet, Sentinel,
-Sleepless Detective, Soul Warden, Souldrinker, Sphere Singer, Spherewalker, Steel Falcon, Student of War,
+Sleepless Detective, Soul Warden, Souldrinker2, Sphere Singer, Spherewalker, Steel Falcon, Student of War,
 Sun Seeker, Swordlord, Tattooed Mystic, Technomancer, Umbral Agent, Veiled Illusionist, Winter Witch)
 
 BARBARIAN_ARCHETYPES = (Armored Hulk, Breaker, Brutal Pugilist, Burn Rider, Dreadnought, Drunken Brute,
