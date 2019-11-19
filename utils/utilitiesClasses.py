@@ -20,7 +20,7 @@ Liberator, Lion Blade, Living Monolith, Low Templar, Mage of the Third Eye, Mamm
 Proctor, Ritualist, Rose Warden, Runeguard, Natural Alchemist, Noble Scion, Pain Taster, Pit Fighter, 
 Planes Walker, Purity Legion Enforcer, Sanguine Angel, Stargazer, Souldrinker, Spirit Channeler Emissary,
 Storm Kindler, Student of Perfection, Twilight Talon, Sacred Sentinel, Scar Seeker, Sanctified Prophet, Sentinel,
-Sleepless Detective, Soul Warden, Souldrinker2, Sphere Singer, Spherewalker, Steel Falcon, Student of War,
+Sleepless Detective, Soul Warden, Souldrinker, Sphere Singer, Spherewalker, Steel Falcon, Student of War,
 Sun Seeker, Swordlord, Tattooed Mystic, Technomancer, Umbral Agent, Veiled Illusionist, Winter Witch)
 
 BARBARIAN_ARCHETYPES = (Armored Hulk, Breaker, Brutal Pugilist, Burn Rider, Dreadnought, Drunken Brute,
@@ -106,5 +106,36 @@ Promethean Alchemist, Psychonaut, Ragechemist, Reanimator, Royal Alchemist, Sacr
 Visionary Researcher, Vivisectionist, Wasteland Blighter, Alchemical Trapper, Bogborn Alchemist, Bramble Brewer, 
 Deep Bomber, Fire Bomber, Herbalist, Plague Bringer, Sabateur, Winged Marauder)
 
-CAVALIER_ARCHETYPES = ()
+CAVALIER_ARCHTYPES = (Beast Rider, Castellan, Charger, Circuit Judge, Constable, Courtly Knight, Daring Champion, Daring General, 
+                      Disciple of the Pike, Drakerider, Emissary, Esquire, Fell Rider, "First Mother\'s Fang", Gallant, Gendarme, 
+                      Ghost Rider, Green Knight, Herald Squire, Honor Guard, Hooded Knight, Huntmaster, Hussar, Knight of Arnisant, 
+                      Luring Cavalier, Musketeer, Oceanrider, Qabarat Outrider, Horselord Qadiran, Saurian Champion, Sister-in-Arms, 
+                      Spellscar Drifter, Standard Bearer, Strategist, Verdivant, Vermin Tamer, Wave Rider)
+
+INQUISITOR_ARCHTYPES = (Abolisher, Cloaked Wolf, Cold Iron Warden, Exarchia, Exorcist, Expulsionist, Faith Hunter, Green Faith Marshal, 
+                        Heretic, Hexenhammer, Iconoclast, Immolator, infiltrator, Keeper of Construct, Keeper of the Current, Kinslayer, 
+                        Living Grimoire,Monster Tactician, Oathkeeper, Preacher, Ravener Hunter, Reaper of Secrets, Relic Hunter, 
+                        Royal Accuser, Sacred Huntsmaster, Sanctified Slayer, Secret Seeker, Sin Eater, Spellbreaker, Suit Seeker, 
+                        Sworn of the Eldest, Tactical Leader, Traceless Operating, Umbral Stalker, Urban Infiltrator, Vampire Hunter, 
+                        Vigilant Defender, Witch Hunter)
+
+ORACLE_ARCHTYPES = (Ancient Lorekeeper, Black-Blooded Oracle, Community Guardian, Cyclopean Seer, Divine Numerologist,
+                    Dual-Cursed Oracle, Oracle Elementalist, Enlightened Philosopher, Hermit, Inerrant Voice, Keleshite Prophet,
+                    "Ocean\'s Echo", Pei Zin Practitioner, Oracle Planar, Possessed Oracle, Psychic Searcher, Purifier, 
+                    Reincarnated Oracle, River Soul, Seeker, Seer, Shigenjo, Spirit Guide, Stargazer, Tree Soul, Warsighted)
+
+SUMMONER_CHAINED_ARCHTYPES = (Blood God Disciple, Blood Summoner, Broodmaster, Counter-Summoner, Evolutionist, First Worlder, God Caller, 
+                              Leshy Caller, Master Summoner, Morphic Savant, Naturalist, Pyroclast, Shadow Caller, Shaitan Binder, 
+                              Spirit Summoner, Storm Caller, Story Summoner, Synthesist, Twinned Summoner, Unwavering Conduit, 
+                              "Wild Caller (ARG)", "Wild Caller (HotW)")
+                    
+WITCH_ARCHTYPES = (Alley Witch, Ashiftah, Beast-Bonded, Bonded Witch,Bouda, Cartomancer, Coral Witch, Demon-Sworn, Dimensional Occultist, 
+                   Dreamweaver,Flood Walker,Gingerbread Witch,Gravewalker, Hag of Gyronna, Hagbound, Havocker, Hedge Witch, Herb Witch, 
+                   Hex Channeler, Invoker, Jinx Witch, Ley Line Guardian, Medium, Mirror Witch, Mountain Witch, Nexian Spellspy, 
+                   Pact Witch, Putrefactor, Rhetorician, Scarred Witch Doctor, Sea Witch, Season Witch, Seducer, Synergist, 
+                   Tatterdemalion, Vellemancer, Veneficus Witch, Venom Siphoner, White-Haired Witch, Winter Witch, Witch-Watcher, 
+                   Wyrm Witch)
+
+
+
 
