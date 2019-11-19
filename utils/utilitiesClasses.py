@@ -2,7 +2,7 @@ CLASSES = (Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue
 Alchemist, Cavalier, Gunslinger, Inquisitor, Magus, Omdura, Oracle, Shifter, Summoner, Witch, Vampire Hunter, 
 Vigilante, Arcanist, Bloodrager, Brawler, Hunter, Investigator, Shaman, Skald, Slayer, Swashbuckler, Warpriest
 Kineticist, Medium, Mesmerist, Occultist, Psychic, Spiritualist, Antipaladin, Ninja, Samurai, Adept,
-Aristocrat, Commoner, Expert, Warrior)
+Aristocrat, Commoner, Expert, Warrior, Unchained Barbarian, Unchained Monk, Unchained Rogue, Unchained Summoner)
 
 PRESTIGE_CLASSES = (Battle Herald, Holy Vindicator, Horizon Walker, Master Chymist, Master Spy,
 Nature Warden, Rage Prophet, Stalwart Defender, Arcane Archer, Arcane Trickster, Assassin, Chronicler,
@@ -75,4 +75,36 @@ Ghost Hunter, Gray Paladin, Holy Guide, Holy Gun, Holy Tactician, Hospitaler, Le
 Sacred Servant, Sacred Shield, Scion of Peace, Shining Knight, SIlver Champion, Soul Sentinel, Sword of Valor, Tempered Champion, Temple Champion, 
 Tortured Crusader, Undead Scourge, Virtuous Bravo, Warrior of the Holy Light, Redeemer, Stonelord, Tranquil Guardian)
 
-RANGER_ARCHETYPES = ()
+RANGER_ARCHETYPES = (Battle Scout, Beastmaster, Cinderwalker, Code Runner, Corpse Hunter, Dandy, Deep Diver, Deep Walker,
+Demonslayer, Divine Marksman, Divine Tracker, Dragon Hunter, Drake Warden, Dungeon Rover, Falconer, Fortune Finder, Freebooter,
+Galvanic Saboteur, Groom, Guide, Guildbreaker, Hooded Champion, Horse Lord, Infiltrator, Lantern Bearer, Lantern Lighter, 
+Poison Darter, Raven Master, Sentinel, Shapeshifter, Skirmisher, Sky Stalker, Spirit Ranger, Toxophilite, Transporter, Trapper, 
+Trophy Hunter, Urban Ranger, Warden, Wild Hunter, Wild Stalker, Wilderness Medic, Witchguard, Woodland Skirmisher,
+Yokai Hunter, Bow Nomad, Dusk Stalker, Wave Warden, Wild Shadow)
+
+ROGUE_ARCHETYPES = (Acrobat, Agitator, Bandit, Burglar, Carnivalist, Chameleon, Charlatan, Consigliere, Counterfeit Mage, 
+Cutpurse, Dark Lurker, Driver, Earthshadow, Eldritch Scoundrel, Escapologist, Falsee Medium, Guerrilla, Guild Agent, Heister, 
+Investigator, Irrigator, Kidnapper, Knife Master, Liberator, Makeshift Scrapper, Master of Disguise, Phantom Thief, Pirate, 
+Planar Sneak, Poisoner, Rake, Relic Raider, River Rat, Roof Runner, Sanctified Rogue, Sapper, Scavenger, Scout, Scroll Scoundrel,
+Seeker of the Lost, Shadow Rebel, Shadow Walker, Sharper, Smuggler, Snoop, Sniper, Spy, Survivalist, Swashbuckler, Swindler, 
+Sylvan Trickster, Thug, Tidal Trickster, Toxic Talon, Trapsmith, Underground Chemist, Vexing Dodger, Waylayer, Cat Burglar,
+Deadly Courtesan, Eldritch Raider, Filcher, Kitsune Trickster, Skulking Slayer, Snare Setter, Swordmaster)
+
+SORCERER_ARCHETYPES = (Crossblooded, Dragon Drinker, Eldritch Scrapper, Falsee Priest, Mongrel Mage, Seeker, Sorcerer of Sleep, 
+Stone Warder, Tattooed Sorcerer, Umbral Scion, Wildblooded, Wishcrafter, Nine-Tailed Heir)
+
+WIZARD_ARCHETYPES = (Arcane Bomber, Arcane Physician, Bonded Wizard, Chronomancer, Clocksmith, Elder Mythos Scholar, Exploiter Wizard,
+Familiar Adept, Fey Caller, Hallowed Necromancer, Instructor, Pact Wizard, Poleiheira Adherent, Primalist, Runesage,
+Scrollmaster, Scroll Scholar, Shadowcaster, Siege Mage, Spellslinger, Spell Sage, Spirit Binder, Spirit Whisperer, 
+Sword Binder, Undead Master, Cruoromancer, Spellbinder, Wind Listener)
+
+ALCHEMIST_ARCHETYPES = (Alchemical Sapper, Aquachymist, Beastmorph, Blazing Torchbearer, Chirurgeon, Clone Master, Construct Rider,
+Crimson Chymist, Crypt Breaker, Dimensional Excavator, Dragonblood Chymist, Ectochymist, Ectoplasm Master, Eldritch Poisoner, 
+Energy Scientist, Gloom Chymist, Grenadier, Grenadier2, Gun Chemist, Homunculist, Horticulturist, Horticulturist2, 
+Ice Chemist, Inspired Chemist, Internal Alchemist, Interrogator, Mad Scientist, Metamorph, Mindchemist, Preservationist, 
+Promethean Alchemist, Psychonaut, Ragechemist, Reanimator, Royal Alchemist, Sacrament Alchemist, Tinkerer, Toxicant, Trap Breaker,
+Visionary Researcher, Vivisectionist, Wasteland Blighter, Alchemical Trapper, Bogborn Alchemist, Bramble Brewer, 
+Deep Bomber, Fire Bomber, Herbalist, Plague Bringer, Sabateur, Winged Marauder)
+
+CAVALIER_ARCHETYPES = ()
+
